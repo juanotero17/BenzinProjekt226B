@@ -12,7 +12,7 @@ namespace TankstellProjekt226B
         /// Der Haupteinstiegspunkt für die Anwendung.
         /// </summary>
         [STAThread]
-        static void Main()W5SEFU.OPIÜOKLÜKOJHBGVFCDXSYRZEDTFZUGIHJOPKJUHZGTFRDESWA
+        static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
